@@ -30,7 +30,7 @@ you can able to see the details in user.txt file.
 for second form (mail form).
 
 once done with above insallation type
--> nodemon mail.js (for user creation file)
+-> nodemon mail.js (for mail sent file)
 
 live server would start after the above command
 now you can listen to response at 
